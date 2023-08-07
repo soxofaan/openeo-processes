@@ -3,6 +3,7 @@
     "summary": "Converts GeoJSON into a vector data cube",
     "description": "Converts GeoJSON data as defined by [RFC 7946](https://www.rfc-editor.org/rfc/rfc7946.html) into a vector data cube. Feature properties are preserved.",
     "categories": [
+        "cubes",
         "import",
         "vector"
     ],
